@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science<br>👯 I’m looking to collaborate on Data Science Projects<br>🌱 I’m currently learning Deep Learning<br>⚡ Fun fact:<br>"Why do data scientists prefer dating other data scientists? Because they're already familiar with the concept of correlated variables!"<br>
+🔭 I’m currently working on Data Science<br>👯 I’m looking to collaborate on Data Science Projects<br>🌱 Fun fact:<br>"Why do data scientists prefer dating other data scientists? Because they're already familiar with the concept of correlated variables!"<br>
 
 
 ## 🌐 Socials:
